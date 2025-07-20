@@ -1,4 +1,5 @@
 # Demo-project
 This is my first repository.
 <br>
-Author Name- Himanshu Tomar
+Author Name- Himanshu T
+
